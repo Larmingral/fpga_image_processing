@@ -1,0 +1,3 @@
+pic_flag,ov5640_vsync_dly,ov5640_vsync,~data_flag
+ov5640_data_out,pic_valid,data_out_reg
+ov5640_wr_en,pic_valid,data_flag_dly1

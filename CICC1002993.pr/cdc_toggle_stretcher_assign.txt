@@ -1,0 +1,2 @@
+changed,sync_d2,sync_d3,!rst_n
+vkey_n,cnt

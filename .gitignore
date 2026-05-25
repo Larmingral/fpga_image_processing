@@ -1,0 +1,79 @@
+# =====================
+# eHiWay eLinx (Build & Run Artifacts)
+# =====================
+**/runs/*/
+*.runs
+*.rpt
+*.summary
+*.smsg
+*.pb
+*.place
+*.route
+*.psk
+*.jpsk
+*.fst
+*.min
+*.edb
+*.edi
+*.result
+*.pcblocks
+*.ecp
+*.mif
+*.hdl.mif
+backup/
+Incremental/
+
+# =====================
+# Quartus II (Legacy - migrated to eLinx)
+# =====================
+db/
+incremental_db/
+*.qpf
+*.qsf
+*.qws
+*.tdf
+*.cnf.cdb
+*.cnf.hdb
+*.cnf.ddb
+*.map.*
+*.cmp.*
+*.lpc.*
+*.rtlv.*
+*.sgdiff.*
+*.hif
+*.hier_info
+*.cbx.xml
+*.ddb
+*.sci
+*.smart_action.txt
+*.smp_dump.txt
+*.ipinfo
+*.db_info
+*.hbdb.*
+*.kpt
+*.dpi
+*.tdf
+*.vqm
+
+# =====================
+# IP Generated Files (can be regenerated)
+# =====================
+*.vo
+*.eeo
+
+# =====================
+# OS & Editor Temp Files
+# =====================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+*.bak
+
+# =====================
+# General Logs & Temp
+# =====================
+*.log
+temp/
+tmp/

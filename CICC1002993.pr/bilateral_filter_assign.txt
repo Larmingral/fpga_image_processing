@@ -1,0 +1,6 @@
+vs_out,pipe_vs
+hs_out,pipe_hs
+de_out,pipe_de
+cb_out,pipe_cb
+cr_out,pipe_cr
+y_out,final_mult

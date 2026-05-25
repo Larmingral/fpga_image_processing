@@ -1,0 +1,2 @@
+erosion_flag,b11,b12,b13,b21,b22,b23,b31,b32,b33
+dilation_flag,b11,b12,b13,b21,b22,b23,b31,b32,b33,!rst_n

@@ -1,0 +1,4 @@
+pipe_en_in,s_axis_tvalid,s_axis_tready,!rst_n
+s_axis_tready,state,FSM_WORK
+o_frame_done,state,FSM_OVER,!rst_n
+valid_pixel_in,state,FSM_WORK,pipe_en_in,!rst_n,!rst_n

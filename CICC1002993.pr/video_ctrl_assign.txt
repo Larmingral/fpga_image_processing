@@ -1,0 +1,9 @@
+global_rst_n,sys_rst_n,locked_all
+sdram_rst_n,global_rst_n,soft_rst_n,!sdram_rst_n,!global_rst_n
+vsync_neg,!cam_vsync,cam_vsync_d1,!global_rst_n,!sdram_rst_n
+safe_wr_en,wr_en_in,~wr_wait_vsync,!global_rst_n,!global_rst_n
+keep_pixel,pixel_x,pixel_y
+center_crop,pixel_x,pixel_x,pixel_y,pixel_y,!global_rst_n
+rot_en_sync_out,rot_en_sync
+hdmi_vs_neg,!hdmi_vs,hdmi_vs_d1,!global_rst_n,!sdram_rst_n
+safe_rd_en,rd_en_in,~rd_wait_vsync

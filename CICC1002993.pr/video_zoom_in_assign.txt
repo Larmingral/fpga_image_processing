@@ -1,0 +1,1 @@
+sdram_rd_en,zoom_state,data_req_in,req_x,req_y,!rst_n

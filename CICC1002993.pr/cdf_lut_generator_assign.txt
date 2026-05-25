@@ -1,0 +1,5 @@
+o_hist_rd_en,state,SM_ACCUM,loop_cnt
+o_hist_rd_addr,loop_cnt,!rst_n
+next_cdf,cdf_acc,i_hist_rd_data,!rst_n,!found_min
+div_denom,TOTAL_PIXELS,cdf_min,TOTAL_PIXELS,cdf_min
+o_lut_ready,lut_ready_reg

@@ -1,0 +1,9 @@
+in_zoom_window,pixel_xpos,pixel_xpos,pixel_ypos,pixel_ypos
+masked_rd_data,zoom_hdmi_d2,!in_zoom_window,rd_data
+rd_en,zoom_hdmi_d2,zoom_sdram_rd_en,zoom_hdmi_d2,driver_rd_en,in_zoom_window,driver_rd_en
+sel_vs,mode,beauty_vs,mode,roi_vs,mode,mode,morph_vs,mode,bf_vs,proc_vs
+sel_hs,mode,beauty_hs,mode,roi_hs,mode,mode,morph_hs,mode,bf_hs,proc_hs
+sel_de,mode,beauty_de,mode,roi_de,mode,mode,morph_de,mode,bf_de,proc_de
+sel_y,mode,beauty_y,mode,roi_y,mode,mode,morph_y,mode,bf_y,proc_y
+sel_cb,mode,beauty_cb,mode,roi_cb,mode,mode,morph_cb,mode,bf_cb,proc_cb
+sel_cr,mode,beauty_cr,mode,roi_cr,mode,mode,morph_cr,mode,bf_cr,proc_cr,!sel_de,!sel_de

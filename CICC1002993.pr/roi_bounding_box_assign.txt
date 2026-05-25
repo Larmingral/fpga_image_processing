@@ -1,0 +1,4 @@
+frame_start_trigger,de_in,is_first_pixel
+is_skin_raw,cb_in,CB_MIN,cb_in,CB_MAX,cr_in,CR_MIN,cr_in,CR_MAX
+is_skin_eroded,p11,p12,p13,p21,p22,p23,p31,p32,p33
+safe_zone,px_x,px_x,px_y,px_y,!rst_n,!rst_n

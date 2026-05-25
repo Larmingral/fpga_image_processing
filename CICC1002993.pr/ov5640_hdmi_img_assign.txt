@@ -1,0 +1,2 @@
+cam_xclk,clk_24m
+sys_init_done,sdram_init_done,cam_init_done

@@ -1,0 +1,2 @@
+remain,sub_wire0
+quotient,sub_wire1

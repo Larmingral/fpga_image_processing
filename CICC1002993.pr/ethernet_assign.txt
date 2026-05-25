@@ -1,0 +1,6 @@
+E_GTXC,clk_125m
+E_RESET,sys_rst_n
+,out_bit_sync,!s2
+tx_start,s1,~s2
+E_TXEN,tx_en_out
+E_TXD,tx_d_out,!sys_rst_n

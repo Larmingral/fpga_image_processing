@@ -1,0 +1,3 @@
+final_rot_n,key_switch_rot,vkey_rot_n
+final_zoom_n,key_switch_zoom,vkey_zoom_n
+final_mode_n,key_switch,vkey_mode_n

@@ -1,0 +1,5 @@
+write_done_flag,wr_ack_r2,~wr_ack_r1
+read_done_flag,rd_ack_r2,~rd_ack_r1
+wr_load_flag,~wr_load_r2,wr_load_r1
+rd_load_flag,~rd_load_r2,rd_load_r1,!rst_n,!rst_n,!rst_n,!rst_n,!rst_n,!rst_n
+mode_changed,rot_en_d2,rot_en_d3,!rst_n,!rot_en_d2,~rw_bank_flag,~rw_bank_flag,!rot_en_d2,!rst_n,!rst_n

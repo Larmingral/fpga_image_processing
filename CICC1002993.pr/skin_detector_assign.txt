@@ -1,0 +1,1 @@
+is_skin,cb_in,CB_MIN,cb_in,CB_MAX,cr_in,CR_MIN,cr_in,CR_MAX,!rst_n

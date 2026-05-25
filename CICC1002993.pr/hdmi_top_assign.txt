@@ -1,0 +1,5 @@
+hdmi_data,hdmi_data_reg
+hdmi_hs,hdmi_hs_reg
+hdmi_vs,hdmi_vs_reg
+hdmi_de,hdmi_de_reg
+hdmi_clk_out,hdmi_clk

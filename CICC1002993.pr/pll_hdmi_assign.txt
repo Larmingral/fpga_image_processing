@@ -1,0 +1,5 @@
+locked,~locked_tmp
+c0,wireC
+c1,wireC
+c2,wireC
+wireR,wireD,areset
